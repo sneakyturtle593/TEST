@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://iwm6nq5h33qm"
+path="res://.godot/imported/My name is Retep and I am evil.mp3-283160b1aee7b02e0a7ea8000c5fe062.mp3str"
+
+[deps]
+
+source_file="res://sfx/My name is Retep and I am evil.mp3"
+dest_files=["res://.godot/imported/My name is Retep and I am evil.mp3-283160b1aee7b02e0a7ea8000c5fe062.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
